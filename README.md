@@ -1,6 +1,6 @@
 - Wankanobe with two turn tables and a microphone > Kickin' it at github and lovin' life for it. ;)
 
-- There isn't a great feal that does not interest me but admittedly electronic gadgets has become a
+- There isn't a great deal that does not interest me but admittedly electronic gadgets has become a
   mainstay. The manipulation of hardware and coding that power our lives is a required part of my life
   so may as well keep abreast of wtf is going on, no? Yes? Maybe? haha
   
